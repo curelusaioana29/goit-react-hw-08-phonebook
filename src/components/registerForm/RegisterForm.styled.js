@@ -22,7 +22,7 @@ export const Button = styled.button`
   font-size: 14px;
   border-radius: 4px;
   border: 1px solid;
-  background: linear-gradient(90deg, #1cb5e0 0%, #000851 100%);
+  background: linear-gradient(90deg, #43e01c 0%, #000851 100%);
   &&:hover {
     background: linear-gradient(90deg, #1cb5e0 0%, #000851 100%);
   }

@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 
 function Button({ children, action, type = 'button' }) {
   const style = css`
-    background: linear-gradient(90deg, #1cb5e0 0%, #000851 60%);
+    background: linear-gradient(90deg, #43e01c 0%, #000851 60%);
     border: none;
     border-radius: 4px;
     color: white;
